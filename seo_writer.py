@@ -1,7 +1,6 @@
 """
-Script d'automatisation de rédaction SEO utilisant l'API Mistral et Notion.
-Ce script génère des articles optimisés SEO à partir d'une base de données
-Notion.
+SEO content automation script using the Mistral API and Notion.
+This script generates SEO-optimized articles directly from a Notion database.
 """
 
 import os
